@@ -1,0 +1,12 @@
+[submodule "CG-Project-1"]
+	path = CG-Project-1
+	url = git@github.com:gh-jsoares/CG-Projeto-1.git
+[submodule "CG-Project-2"]
+	path = CG-Project-2
+	url = git@github.com:gh-jsoares/CG-Projeto-2.git
+[submodule "CG-Project-3"]
+	path = CG-Project-3
+	url = git@github.com:gh-jsoares/CG-Projeto-3.git
+[submodule "CG-Project-4"]
+	path = CG-Project-4
+	url = git@github.com:gh-jsoares/CG-Projeto-4.git
